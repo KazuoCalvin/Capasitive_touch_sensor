@@ -15,3 +15,14 @@
 ## 4. Components
 Follow the following format: 
 Name, value, DigiKey link
+
+- 555 timer
+
+LMC555CN/NOPB, , https://www.digikey.ca/en/products/detail/texas-instruments/LMC555CN-NOPB/32623, bought
+
+- Capacitor
+, 1nF, 
+, 10nF, 
+
+- Inverter
+SN74LVC1G14DBVR, , https://www.digikey.ca/en/products/detail/texas-instruments/SN74LVC1G14DBVR/385724
