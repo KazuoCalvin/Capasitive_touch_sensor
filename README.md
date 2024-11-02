@@ -14,15 +14,22 @@
 
 ## 4. Components
 Follow the following format: 
-Name, value, DigiKey link
+
+Name, value, DigiKey link, number needed
 
 - 555 timer
 
 LMC555CN/NOPB, , https://www.digikey.ca/en/products/detail/texas-instruments/LMC555CN-NOPB/32623, bought
 
 - Capacitor
+
 , 1nF, 
-, 10nF, 
+GRM033R71A103KA01D, 10nF, https://www.digikey.ca/en/products/detail/murata-electronics/GRM033R71A103KA01D/702460
 
 - Inverter
+
 SN74LVC1G14DBVR, , https://www.digikey.ca/en/products/detail/texas-instruments/SN74LVC1G14DBVR/385724
+
+- Potentiometer
+
+N6S25T0C-103-3030, 10kO, https://www.digikey.ca/en/products/detail/amphenol-piher-sensing-systems/N6S25T0C-103-3030/13244337
