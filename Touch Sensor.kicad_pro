@@ -578,6 +578,14 @@
     [
       "63aa1a4b-6779-43f0-9035-196297895573",
       "Root"
+    ],
+    [
+      "dd37604a-b7d5-4db6-aa5e-f53bbe6bab65",
+      "3MHz_gen"
+    ],
+    [
+      "010a2560-b761-4edc-8e54-ba929aee64a0",
+      "Touch Sensor"
     ]
   ],
   "text_variables": {}
